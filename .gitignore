@@ -1,0 +1,8 @@
+.import/
+.export/
+.export_presets.cfg
+*.tmp
+*.log
+.vscode/
+.idea/
+.DS_Store
