@@ -420,4 +420,6 @@ script = ExtResource("1_g2els")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_apa73")
-animation = &"front_idle"
+animation = &"front_attack"
+frame = 3
+frame_progress = 0.88888836
